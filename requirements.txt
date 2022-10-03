@@ -10,3 +10,5 @@ requests
 yt-dlp==2022.9.1
 youtube_dl
 ffmpegio==0.4.7
+numpy
+pandas
