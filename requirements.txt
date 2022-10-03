@@ -9,6 +9,6 @@ spotipy
 requests
 yt-dlp==2022.9.1
 youtube_dl
-static-ffmpeg==2.3
+ffmpegio==0.7.0
 numpy
 pandas
